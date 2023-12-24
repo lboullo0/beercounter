@@ -1,2 +1,2 @@
 # beercounter
-Contardor de tragos
+Contador de tragos
